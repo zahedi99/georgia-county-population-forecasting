@@ -1,0 +1,7 @@
+Best model by rolling RMSE: Linear
+Residual standard deviation used for uncertainty band: 1,461.81
+
+Key interpretation:
+- Linear model won on rolling backtest for this small annual county-level dataset.
+- Tree models underperformed relative to Linear and Naive baselines.
+- Forecast should be interpreted as a planning-oriented scenario under continued trend assumptions.
