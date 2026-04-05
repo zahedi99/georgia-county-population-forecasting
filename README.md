@@ -1,2 +1,5 @@
-# georgia-county-population-forecasting
-County-level population forecasting for all Georgia counties (2010–2034) using U.S. Census data, rolling backtest evaluation, and recursive ML-based time-series prediction.
+## Purpose
+
+This project demonstrates an end-to-end structured machine learning forecasting workflow designed for regional planning, infrastructure analysis, and demographic decision support.
+
+# Georgia County Population Forecasting Pipeline (Machine Learning)
