@@ -1,3 +1,7 @@
+## Purpose
+
+This project demonstrates an end-to-end structured machine learning forecasting workflow designed for regional planning, infrastructure analysis, and demographic decision support.
+
 # Georgia County Population Forecasting Pipeline (Machine Learning)
 
 This project builds a county-level population forecasting pipeline for the U.S. state of Georgia using historical Census estimates and machine learning models.
